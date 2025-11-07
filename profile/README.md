@@ -1,4 +1,4 @@
-# 🤖 Hoocup – AI Companion
+# ❤️ Hoocup – AI Companion
 
 ### Crafted by **Hooc. ai**
 
